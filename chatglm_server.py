@@ -1,5 +1,5 @@
 import chatglm_cpp
-
+print('hello!!!!!!!!!!!')
 pipline = chatglm_cpp.Pipeline("chatglm2-ggml.bin")
 
 # pipline.chat(['hi'])

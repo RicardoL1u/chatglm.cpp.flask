@@ -1,0 +1,2795 @@
+[
+    {
+        "name": "千岁基地",
+        "id": "0cdc271d0d77b942",
+        "type": "空军基地",
+        "type_id": "493776557072978404",
+        "max_runway_length": 2700
+    },
+    {
+        "name": "埃尔门多夫",
+        "id": "1f71eea38b026989",
+        "type": "空军基地",
+        "type_id": "493776557072978404",
+        "max_runway_length": 2100
+    },
+    {
+        "name": "海拉尔机场",
+        "id": "a4f48344f59a619a",
+        "type": "机场",
+        "type_id": "493776555814687204",
+        "max_runway_length": 3000
+    },
+    {
+        "name": "Trent Lott National Guard Training Complex",
+        "id": "7eb72a67-3593-4cd3-b887-a2707b65c189",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2100
+    },
+    {
+        "name": "Eglin Air Force Base",
+        "id": "cb010b80-1625-4c3e-afa6-204fc352742a",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2400
+    },
+    {
+        "name": "民雄高速公路机场",
+        "id": "542a727a9cddb13b",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2800
+    },
+    {
+        "name": "博林空军基地",
+        "id": "0525a564c7c36a19",
+        "type": "空军基地",
+        "type_id": "493776557072978404",
+        "max_runway_length": 2300
+    },
+    {
+        "name": "北跑道",
+        "id": "6b909e44a463375e",
+        "type": "跑道",
+        "type_id": "524274537051723273",
+        "max_runway_length": 2300
+    },
+    {
+        "name": "台北松山机场",
+        "id": "7dd97d0a-d020-4505-856d-93d1b173257d",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2700
+    },
+    {
+        "name": "横田空军基地",
+        "id": "d345d321-2e04-422d-b1ae-3785a96e23b7",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2600
+    },
+    {
+        "name": "Volk Air National Guard Base",
+        "id": "3fbfdd05-e1b7-4a47-9510-a4c4e4992623",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2300
+    },
+    {
+        "name": "Hawkins Field",
+        "id": "87dcbb83-2130-4ec1-baf1-4874b014c668",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2700
+    },
+    {
+        "name": "塔台",
+        "id": "54c55e60c80e528d",
+        "type": "塔台",
+        "type_id": "524274540889511433",
+        "max_runway_length": 2900
+    },
+    {
+        "name": "Key Field",
+        "id": "468014a8-33c6-42b7-8c55-898d448088d5",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 3000
+    },
+    {
+        "name": "RAF Croughton",
+        "id": "51e24a1c-d6c2-439f-a4d6-6b4302e46060",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2900
+    },
+    {
+        "name": "阿萨德空军基地",
+        "id": "a0e12fc2-59b2-474b-9c8d-b9d28e939bfe",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2200
+    },
+    {
+        "name": "屏北机场",
+        "id": "cf38def97a5cfcf2",
+        "type": "军民合用机场",
+        "type_id": "524274533755000329",
+        "max_runway_length": 2300
+    },
+    {
+        "name": "芦屋空军基地",
+        "id": "d682d05f803a6927",
+        "type": "空军基地",
+        "type_id": "493776557072978404",
+        "max_runway_length": 2700
+    },
+    {
+        "name": "范登堡空军基地",
+        "id": "1fbb4ef57c54d23e",
+        "type": "空军基地",
+        "type_id": "493776557072978404",
+        "max_runway_length": 2000
+    },
+    {
+        "name": "New Castle Air National Guard Base",
+        "id": "28dc9d9b-d289-44e4-b779-e3444e18e0a1",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2200
+    },
+    {
+        "name": "Moffett Field",
+        "id": "6a763328-c7a3-4a3f-aafb-1ab180d1bf9d",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2000
+    },
+    {
+        "name": "三泽空军基地",
+        "id": "e3cce7ae3d1bc4a4",
+        "type": "空军基地",
+        "type_id": "493776557072978404",
+        "max_runway_length": 2600
+    },
+    {
+        "name": "Montgomery Air National Guard Base",
+        "id": "a7b1dab7-4f2b-46df-a49b-70a68c2755f7",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2000
+    },
+    {
+        "name": "Gowen Field",
+        "id": "fe9842d8-9076-44d3-8348-94fa8df6031f",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2500
+    },
+    {
+        "name": "湛江机场",
+        "id": "5399dc05c323d618",
+        "type": "机场",
+        "type_id": "493776555814687204",
+        "max_runway_length": 2300
+    },
+    {
+        "name": "Burlington Air National Guard Base",
+        "id": "2584d2d3-ad84-43e1-bbef-63dc1cd3935d",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2600
+    },
+    {
+        "name": "Altus Air Force Base",
+        "id": "39ac58bf-3898-47cf-b57e-ce5ca14d93d1",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2800
+    },
+    {
+        "name": "Alpena County Regional Airport",
+        "id": "770f5505-9f0d-4d3d-aa3c-0e5324e4f2c2",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2300
+    },
+    {
+        "name": "左营机场",
+        "id": "aa2f4dc1afebf5a2",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2500
+    },
+    {
+        "name": "乌山",
+        "id": "6b96bb7a2e47673f",
+        "type": "空军基地",
+        "type_id": "493776557072978404",
+        "max_runway_length": 3000
+    },
+    {
+        "name": "晋江机场",
+        "id": "e4636791ef4b0438",
+        "type": "民用机场",
+        "type_id": "524274540935648777",
+        "max_runway_length": 2800
+    },
+    {
+        "name": "Rickenbacker Air National Guard Base",
+        "id": "24102a6e-80c0-42ba-946b-70017727af1d",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 3000
+    },
+    {
+        "name": "Stewart Air National Guard Base",
+        "id": "ff9bc2a4-ded5-4b36-a659-496041688f70",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2200
+    },
+    {
+        "name": "Davis-Monthan Air Force Base",
+        "id": "bf9001db-f16e-437a-9f3a-ecd562d16063",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2700
+    },
+    {
+        "name": "RAF Lakenheath",
+        "id": "39f890ee-2dfc-4b81-af5d-935639b82a33",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2700
+    },
+    {
+        "name": "Ozol Defense Fuel Support Point",
+        "id": "40b5a9d9-98db-4ca8-9c3d-daaac0b4be9c",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2800
+    },
+    {
+        "name": "台东空军基地",
+        "id": "b9f9c7dbe01993a1",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2400
+    },
+    {
+        "name": "冈山空军基地",
+        "id": "e4ebde5b4909f904",
+        "type": "空军基地",
+        "type_id": "493776557072978404",
+        "max_runway_length": 2200
+    },
+    {
+        "name": "屏东(南) 空军基地",
+        "id": "4231f02fed7cfff9",
+        "type": "空军基地",
+        "type_id": "493776557072978404",
+        "max_runway_length": 2700
+    },
+    {
+        "name": "首都机场",
+        "id": "f938ad5c13fb092a",
+        "type": "机场",
+        "type_id": "493776555814687204",
+        "max_runway_length": 2300
+    },
+    {
+        "name": "白塔机场",
+        "id": "25bee344a235dcc9",
+        "type": "机场",
+        "type_id": "493776555814687204",
+        "max_runway_length": 3000
+    },
+    {
+        "name": "Yeager Airport",
+        "id": "6abd048b-c994-4600-a975-709fae1ed8a8",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2500
+    },
+    {
+        "name": "McConnell Air Force Base",
+        "id": "e57dd604-178a-408c-9780-6d4771007778",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2300
+    },
+    {
+        "name": "美林空军基地",
+        "id": "3cc196a73d28da46",
+        "type": "空军基地",
+        "type_id": "493776557072978404",
+        "max_runway_length": 2400
+    },
+    {
+        "name": "那霸机场",
+        "id": "b257d29d7be524a2",
+        "type": "机场",
+        "type_id": "493776555814687204",
+        "max_runway_length": 2000
+    },
+    {
+        "name": "Memphis Air National Guard Base",
+        "id": "1bfbe92e-579a-4ca6-b1f7-8871bdd48491",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 3000
+    },
+    {
+        "name": "Maxwell-Gunter Air Force Base",
+        "id": "4e200665-6c4d-4e21-b01c-ee95aff64fcc",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2200
+    },
+    {
+        "name": "Hurlburt Field",
+        "id": "abcb82ce-0a2a-4117-82d0-889a15596c88",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2500
+    },
+    {
+        "name": "Malmstrom Air Force Base",
+        "id": "3e91fcbe-fe58-49db-ba0c-30ce54e02ce4",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2700
+    },
+    {
+        "name": "台东空军基地",
+        "id": "bdb838f4-d59a-4371-9274-c9cd06b668d4",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2400
+    },
+    {
+        "name": "屏东机场",
+        "id": "d6ec7d510c4878cc",
+        "type": "军民合用机场",
+        "type_id": "524274533755000329",
+        "max_runway_length": 2200
+    },
+    {
+        "name": "纽瓦克机场",
+        "id": "9405acc656044d43",
+        "type": "机场",
+        "type_id": "493776555814687204",
+        "max_runway_length": 3000
+    },
+    {
+        "name": "图勒空军基地",
+        "id": "a7cbb6ce-efcd-47f7-9465-48d5f9dd8fba",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2200
+    },
+    {
+        "name": "正定飞机场",
+        "id": "d4c556edd73974e8",
+        "type": "机场",
+        "type_id": "493776555814687204",
+        "max_runway_length": 3000
+    },
+    {
+        "name": "佳山空军基地",
+        "id": "dc458f62d06b1c36",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 3000
+    },
+    {
+        "name": "松岛空军基地",
+        "id": "6007bfed75220095",
+        "type": "空军基地",
+        "type_id": "493776557072978404",
+        "max_runway_length": 3000
+    },
+    {
+        "name": "Air Force Plant 6",
+        "id": "1a30fa08-d74c-4111-9e28-c8b552c42031",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2000
+    },
+    {
+        "name": "Lackland Air Force Base",
+        "id": "e2f41d78-8ac2-493a-8b8a-d93c17fbebd5",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2900
+    },
+    {
+        "name": "McEntire Joint Air National Guard Station",
+        "id": "f5a193ce-778c-4f6d-ab47-29441dda3ca2",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2800
+    },
+    {
+        "name": "伊丹国际机场",
+        "id": "27169f7bdec833c1",
+        "type": "机场",
+        "type_id": "493776555814687204",
+        "max_runway_length": 2200
+    },
+    {
+        "name": "RAF Alconbury",
+        "id": "2195e611-e4e8-4b7e-8f8e-0c0748ce6afe",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2400
+    },
+    {
+        "name": "Goodfellow Air Force Base",
+        "id": "21bcbd40-66e1-4e1f-94b9-39062dae5a5f",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2300
+    },
+    {
+        "name": "Charlotte Air National Guard Base",
+        "id": "45b7ad70-6843-4c70-a08c-715a3321057d",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2800
+    },
+    {
+        "name": "Bradley Air National Guard Base",
+        "id": "a6432277-d9ca-450a-a27c-9414c1f561a5",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2100
+    },
+    {
+        "name": "Barter Island DEW Station Bar",
+        "id": "d2017a2a-f5ff-410d-813e-50e5432244f4",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2300
+    },
+    {
+        "name": "兰屿机场",
+        "id": "1887fffbe36e6f8c",
+        "type": "机场",
+        "type_id": "493776555814687204",
+        "max_runway_length": 2700
+    },
+    {
+        "name": "新竹空军基地",
+        "id": "2b273e17-0c66-4890-8d2a-8f6ac07f9a12",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2100
+    },
+    {
+        "name": "桃园",
+        "id": "aa4fc77d087fa7b2",
+        "type": "机场",
+        "type_id": "493776555814687204",
+        "max_runway_length": 2400
+    },
+    {
+        "name": "绿岛机场",
+        "id": "eacc159c143ac350",
+        "type": "民用机场",
+        "type_id": "524274540935648777",
+        "max_runway_length": 2600
+    },
+    {
+        "name": "MD90停机位",
+        "id": "ad836fe24e725538",
+        "type": "停机坪",
+        "type_id": "524274541006951945",
+        "max_runway_length": 2000
+    },
+    {
+        "name": "Portland Air National Guard Base",
+        "id": "717710fc-98cf-48f1-ac55-544c3ceb6dcc",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2600
+    },
+    {
+        "name": "Springfield Air National Guard Base",
+        "id": "bd941d93-c88b-43e6-a6eb-fb3abae0f2d3",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2600
+    },
+    {
+        "name": "厚木海军航空兵基地",
+        "id": "14130bd8132667b2",
+        "type": "空军基地",
+        "type_id": "493776557072978404",
+        "max_runway_length": 2300
+    },
+    {
+        "name": "贾巴尔普尔机场",
+        "id": "04e91bc0a2106c75",
+        "type": "机场",
+        "type_id": "493776555814687204",
+        "max_runway_length": 3000
+    },
+    {
+        "name": "Hancock Field",
+        "id": "f1ff45bb-ba23-44bb-a4fa-72af357993c6",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2600
+    },
+    {
+        "name": "固定航班机场",
+        "id": "8cbb28e6e498ba42",
+        "type": "机场",
+        "type_id": "493776555814687204",
+        "max_runway_length": 2700
+    },
+    {
+        "name": "Channel Islands Air National Guard Station",
+        "id": "b8e5b109-cbfe-41b7-b6db-28c4ec5e414c",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 3000
+    },
+    {
+        "name": "Fort Wayne Air National Guard Station",
+        "id": "f8429c45-5844-4cf0-bfff-07f3d8ca4311",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2100
+    },
+    {
+        "name": "桃园空军基地",
+        "id": "5810a265a70bd116",
+        "type": "空军基地",
+        "type_id": "493776557072978404",
+        "max_runway_length": 2400
+    },
+    {
+        "name": "镇海机场",
+        "id": "d74065df8c96affb",
+        "type": "空军基地",
+        "type_id": "493776557072978404",
+        "max_runway_length": 3000
+    },
+    {
+        "name": "础黄岛空军基地",
+        "id": "2c5b79265cd51bc4",
+        "type": "空军基地",
+        "type_id": "493776557072978404",
+        "max_runway_length": 2300
+    },
+    {
+        "name": "戴耶斯",
+        "id": "b7d13284737d125f",
+        "type": "空军基地",
+        "type_id": "493776557072978404",
+        "max_runway_length": 2100
+    },
+    {
+        "name": "巴格拉姆空军基地",
+        "id": "dae2e845cdd0238b",
+        "type": "空军基地",
+        "type_id": "493776557072978404",
+        "max_runway_length": 2900
+    },
+    {
+        "name": "国际机场",
+        "id": "143b0efa1f6a9b35",
+        "type": "机场",
+        "type_id": "493776555814687204",
+        "max_runway_length": 2500
+    },
+    {
+        "name": "关西国际机场",
+        "id": "04e68ee2c5caaef5",
+        "type": "机场",
+        "type_id": "493776555814687204",
+        "max_runway_length": 2600
+    },
+    {
+        "name": "新义州空军基地",
+        "id": "cceace544398b592",
+        "type": "空军基地",
+        "type_id": "493776557072978404",
+        "max_runway_length": 2100
+    },
+    {
+        "name": "Sheppard Air Force Base",
+        "id": "219065eb-7400-490e-aaee-5b3cccd842d9",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2300
+    },
+    {
+        "name": "Fairchild Air Force Base",
+        "id": "affa1b86-7057-4845-993c-6095644d2bc3",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2700
+    },
+    {
+        "name": "Pease Air National Guard Station",
+        "id": "bfbf2ad1-4b65-4511-a1a7-8db03ca97b15",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2600
+    },
+    {
+        "name": "Mansfield Lahm Air National Guard Base",
+        "id": "cc3348c8-8046-4f97-9f4a-3a62b3a2305c",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2000
+    },
+    {
+        "name": "Travis Air Force Base",
+        "id": "da8d76b4-92c7-4dff-8e51-d6582d72f4e3",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2300
+    },
+    {
+        "name": "Battle Creek Air National Guard Base",
+        "id": "f70d1baf-243d-4602-b5ea-4187925a1b70",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2400
+    },
+    {
+        "name": "跑道",
+        "id": "e9e41bd97dfd6e96",
+        "type": "跑道",
+        "type_id": "524274537051723273",
+        "max_runway_length": 2700
+    },
+    {
+        "name": "Toledo Air National Guard Base",
+        "id": "00d0d588-76d2-4595-9b78-ccf338147484",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2300
+    },
+    {
+        "name": "Joint Base Charleston North Yard",
+        "id": "735a2a04-3a25-4dc4-9a22-e54b2520bdff",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2700
+    },
+    {
+        "name": "Savannah Air National Guard Base",
+        "id": "ca575a39-4818-4e9a-a23a-b4575956775c",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2800
+    },
+    {
+        "name": "Peoria Air National Guard Base",
+        "id": "e262a621-9b97-4781-ae3b-518fd1c3b185",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2200
+    },
+    {
+        "name": "Los Angeles Air Force Annex No 4",
+        "id": "fd58a8d7-15f0-4de2-993d-312cec41334d",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2400
+    },
+    {
+        "name": "Cape Canaveral Air Force Station",
+        "id": "2851f6f2-8748-4029-bb9a-c17bfa919d6e",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2800
+    },
+    {
+        "name": "Cannon Air Force Base",
+        "id": "ae75ef6a-2cea-4f34-8e3e-152a8d0fdc41",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2100
+    },
+    {
+        "name": "Abston Air National Guard Station",
+        "id": "5b1e8c6e-f9b5-4997-be8b-c5091437b5e2",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2300
+    },
+    {
+        "name": "邯郸机场",
+        "id": "d6ba3ecdc1c5d633",
+        "type": "机场",
+        "type_id": "493776555814687204",
+        "max_runway_length": 2600
+    },
+    {
+        "name": "Youngstown Air Reserve Station",
+        "id": "1e977b26-95e8-4737-8d55-b3d4eb03557d",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2200
+    },
+    {
+        "name": "嘉手纳空军基地",
+        "id": "df5ca903-d918-45b5-9a01-5b0a9066ab60",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2800
+    },
+    {
+        "name": "普天间",
+        "id": "99c5c976e03961f0",
+        "type": "空军基地",
+        "type_id": "493776557072978404",
+        "max_runway_length": 2700
+    },
+    {
+        "name": "The Farish Memorial Recreational Annex",
+        "id": "ed773586-8d62-4dab-adf8-7809387b5201",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2100
+    },
+    {
+        "name": "Bellows",
+        "id": "2675907c-f82f-4bef-8f24-c2f351685506",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2800
+    },
+    {
+        "name": "Barnes Air National Guard Base",
+        "id": "469c1054-775f-4ed4-8b7b-0a1b6f992858",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2600
+    },
+    {
+        "name": "Kirtland Air Force Base",
+        "id": "46a83a39-8153-444c-bdbe-502b22c34c10",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 3000
+    },
+    {
+        "name": "Duke Field",
+        "id": "89fd1b0b-0903-438c-9ecb-aa541f177302",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2400
+    },
+    {
+        "name": "人间空军基地",
+        "id": "bf4d5c82aaeb83f3",
+        "type": "空军基地",
+        "type_id": "493776557072978404",
+        "max_runway_length": 2500
+    },
+    {
+        "name": "小牧空军基地",
+        "id": "08fbec6efb6a4238",
+        "type": "空军基地",
+        "type_id": "493776557072978404",
+        "max_runway_length": 2900
+    },
+    {
+        "name": "岩国机场",
+        "id": "004908d77586ced0",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2000
+    },
+    {
+        "name": "Ellsworth Air Force Base",
+        "id": "7e8918c8-1cc3-4b5f-b853-e25e1c3554a9",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2300
+    },
+    {
+        "name": "RAF Mildenhall",
+        "id": "a3e9850d-87a0-4eeb-8b07-93ca8108b826",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2200
+    },
+    {
+        "name": "Cannon Air Force Base Site 2",
+        "id": "0acd3c61-fece-479e-ab48-50fd83314e11",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2100
+    },
+    {
+        "name": "Niagara Falls Air Reserve Station",
+        "id": "1bfbdb14-dc41-4fb5-831b-4bd7742df439",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2400
+    },
+    {
+        "name": "Creech Air Force Base",
+        "id": "c498aee4-8c5d-4a23-b4d5-259e241adb3a",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2400
+    },
+    {
+        "name": "连城机场",
+        "id": "c320101a4078e292",
+        "type": "军民合用机场",
+        "type_id": "524274533755000329",
+        "max_runway_length": 2200
+    },
+    {
+        "name": "Birch Lake Recreation Annex",
+        "id": "16a430e5-9a1c-41c8-8465-f8fcc363973e",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2400
+    },
+    {
+        "name": "Bolling Air Force Base",
+        "id": "785e674b-6c57-421f-b1b8-95c9d440c611",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 3000
+    },
+    {
+        "name": "Harrisburg Air National Guard Base",
+        "id": "8caeaae4-f6c1-40c9-9f81-2028d80c8ba1",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2000
+    },
+    {
+        "name": "Minneapolis-St Paul Air Reserve Station",
+        "id": "b294d3a1-4d31-4215-94eb-0ddfeae199d8",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2200
+    },
+    {
+        "name": "Eielson Air Force Base",
+        "id": "2b389e77-a969-470b-861f-c20e1fb5b783",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2500
+    },
+    {
+        "name": "爱德华兹空军基地",
+        "id": "376bd5ca-0b48-4270-bca2-f28e5d56c15b",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2100
+    },
+    {
+        "name": "Grand Forks Defense Fuel Support Point",
+        "id": "5debc4cc-ef0b-420c-bd26-4ca55e47a9c1",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2300
+    },
+    {
+        "name": "Pillar Point Air Force Station",
+        "id": "7b9cfe5e-31c3-4f33-a7dd-10201a209228",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2300
+    },
+    {
+        "name": "大阪关西机场",
+        "id": "b1e89473ae270a89",
+        "type": "机场",
+        "type_id": "493776555814687204",
+        "max_runway_length": 2300
+    },
+    {
+        "name": "名古屋中部机场",
+        "id": "ca2d48d8be8cc0e0",
+        "type": "机场",
+        "type_id": "493776555814687204",
+        "max_runway_length": 2300
+    },
+    {
+        "name": "顺安国际机场",
+        "id": "035f8a3e4932f1ba",
+        "type": "机场",
+        "type_id": "493776555814687204",
+        "max_runway_length": 2700
+    },
+    {
+        "name": "新义州机场",
+        "id": "0a1c12d1d8f5e4df",
+        "type": "机场",
+        "type_id": "493776555814687204",
+        "max_runway_length": 2200
+    },
+    {
+        "name": "Grissom Air Reserve Base",
+        "id": "20b05552-5d05-4446-96b0-a6f5a53fef64",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2800
+    },
+    {
+        "name": "McChord Air Force Base",
+        "id": "6eb1f2a5-7ada-4a64-bdbd-2775de6231c9",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2800
+    },
+    {
+        "name": "Langley Air Force Base",
+        "id": "a7faf589-a7cd-4b6f-92d5-818edbaf0f62",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2800
+    },
+    {
+        "name": "Scott Air Force Base",
+        "id": "0109b7dd-2c76-4ee0-8dd8-398d32d94b59",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 3000
+    },
+    {
+        "name": "Duluth Air National Guard Base",
+        "id": "24b242cd-d4a0-480a-8d37-2cf5de29ec80",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 3000
+    },
+    {
+        "name": "Ramey AF Solar Observatory Research Site",
+        "id": "71ceebff-0cf5-40c2-b623-fc05fa4c373a",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2300
+    },
+    {
+        "name": "RAF Fylingdales",
+        "id": "1fca248c-774d-42d9-9fb4-10ce855abfe8",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2100
+    },
+    {
+        "name": "莱特-帕特森空军基地",
+        "id": "fb692602-a3a0-43e5-b6cb-ae40bbd96292",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2500
+    },
+    {
+        "name": "麦克迪尔空军基地",
+        "id": "726f73f6-df83-455a-bd04-79fef04df608",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2400
+    },
+    {
+        "name": "佳东公路机场基本属性",
+        "id": "a543d633d78c3337",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2500
+    },
+    {
+        "name": "温州机场",
+        "id": "2cee24d276f0e6cd",
+        "type": "机场",
+        "type_id": "493776555814687204",
+        "max_runway_length": 2900
+    },
+    {
+        "name": "太原武宿机场",
+        "id": "c13c625fcf908605",
+        "type": "机场",
+        "type_id": "493776555814687204",
+        "max_runway_length": 2800
+    },
+    {
+        "name": "Luke Waste Annex",
+        "id": "4d4e2305-51c0-4f6e-b9a3-c94649a4cf0d",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2500
+    },
+    {
+        "name": "Columbus Air Force Base",
+        "id": "c4216fb4-af18-4969-a245-34e5aabec1f6",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2800
+    },
+    {
+        "name": "乌山空军基地",
+        "id": "f44b043b94d2d28e",
+        "type": "空军基地",
+        "type_id": "493776557072978404",
+        "max_runway_length": 2000
+    },
+    {
+        "name": "欣东空军基地",
+        "id": "bd3253ca5c70d091",
+        "type": "空军基地",
+        "type_id": "493776557072978404",
+        "max_runway_length": 2900
+    },
+    {
+        "name": "长滩",
+        "id": "ba3fc893e6de2106",
+        "type": "机场",
+        "type_id": "493776555814687204",
+        "max_runway_length": 3000
+    },
+    {
+        "name": "McGhee Tyson Air National Guard Base",
+        "id": "92db9fc3-0663-4a7b-99f5-8c16cb5df994",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2100
+    },
+    {
+        "name": "花莲空军基地",
+        "id": "09e58d3d22062805",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2500
+    },
+    {
+        "name": "元山空军基地",
+        "id": "3a2b7d0bc37ac07f",
+        "type": "空军基地",
+        "type_id": "493776557072978404",
+        "max_runway_length": 2500
+    },
+    {
+        "name": "Jonathan Dickinson Missile Tracking Annex",
+        "id": "5a8474d3-d8aa-44b7-8012-b1d7482d6a5b",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2600
+    },
+    {
+        "name": "St Louis Air Force Station",
+        "id": "7f2665f3-f368-4646-b93d-cb4dc8cd9923",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2500
+    },
+    {
+        "name": "中坜高速机场",
+        "id": "47242a1a295518d5",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2400
+    },
+    {
+        "name": "台南空军机场",
+        "id": "10a3c63f3bb5fd65",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2300
+    },
+    {
+        "name": "嘉义空军基地",
+        "id": "07e467bd1e3a17e2",
+        "type": "空军基地",
+        "type_id": "493776557072978404",
+        "max_runway_length": 3000
+    },
+    {
+        "name": "桃园国际机场",
+        "id": "b4462cf318296196",
+        "type": "机场",
+        "type_id": "493776555814687204",
+        "max_runway_length": 2900
+    },
+    {
+        "name": "Ellington Field Joint Reserve Base",
+        "id": "117d4824-b48a-498e-9c32-3b3e4a4949dd",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 3000
+    },
+    {
+        "name": "Tucson Air National Guard Base",
+        "id": "b8424a2f-a8d4-423f-9f77-ee5fd8ff7648",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2600
+    },
+    {
+        "name": "Barksdale Air Force Base",
+        "id": "b8ae8aab-c5b4-4b88-b312-cc7c139146fe",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2900
+    },
+    {
+        "name": "King Salmon Airport",
+        "id": "d91bed1b-49c4-4a54-bedc-a3c1439ec721",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2400
+    },
+    {
+        "name": "印度空军基地",
+        "id": "2fb0e28c1a83a786",
+        "type": "空军基地",
+        "type_id": "493776557072978404",
+        "max_runway_length": 2600
+    },
+    {
+        "name": "新千岁机场",
+        "id": "f90022979895694e",
+        "type": "机场",
+        "type_id": "493776555814687204",
+        "max_runway_length": 3000
+    },
+    {
+        "name": "义州机场",
+        "id": "2bdad698ab343380",
+        "type": "机场",
+        "type_id": "493776555814687204",
+        "max_runway_length": 2000
+    },
+    {
+        "name": "Rosecrans Air National Guard Base",
+        "id": "4fc06559-5eed-409d-b686-6a84a3e98f2a",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2800
+    },
+    {
+        "name": "Charleston Air Force Base",
+        "id": "65e97f45-feb6-4b86-8a22-30a26a15b833",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2300
+    },
+    {
+        "name": "Joint Base Charleston Short Stay",
+        "id": "76a10349-8944-4677-9bf9-130c1e25e84f",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2500
+    },
+    {
+        "name": "巴勒姆空军基地",
+        "id": "b857e50244bb3bfb",
+        "type": "空军基地",
+        "type_id": "493776557072978404",
+        "max_runway_length": 2100
+    },
+    {
+        "name": "Canyon Lake Recreation Annex",
+        "id": "bb5a8479-b6a5-4767-8a79-0238fddbd2f5",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2600
+    },
+    {
+        "name": "Truax Field",
+        "id": "d972131b-acc4-41a8-8c56-ff141fc68428",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2400
+    },
+    {
+        "name": "台东空军基地( 志航空军基地)",
+        "id": "08e3e3026e9db26b",
+        "type": "空军基地",
+        "type_id": "493776557072978404",
+        "max_runway_length": 2600
+    },
+    {
+        "name": "义乌机场",
+        "id": "60576af0bfa1fa56",
+        "type": "机场",
+        "type_id": "493776555814687204",
+        "max_runway_length": 2100
+    },
+    {
+        "name": "马公航空站",
+        "id": "6347cef4368298c0",
+        "type": "民用机场",
+        "type_id": "524274540935648777",
+        "max_runway_length": 2900
+    },
+    {
+        "name": "Hickam Field",
+        "id": "1c76773e-9687-4d0b-87bb-c9c402b4171c",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2700
+    },
+    {
+        "name": "Tinker Aerospace Complex",
+        "id": "7915183e-3db6-4516-ac42-10d944d900fe",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2500
+    },
+    {
+        "name": "Kingsley Field Air National Guard Base",
+        "id": "c1a82d42-4f9b-4c13-81b6-db6b150379c4",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2300
+    },
+    {
+        "name": "柯特兰空军基地",
+        "id": "de9ab4e8-913f-4c70-afef-50b20fd48f86",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2000
+    },
+    {
+        "name": "Will Rogers Air National Guard Base",
+        "id": "08f93880-7c22-4a20-8804-9bfa032652b2",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2900
+    },
+    {
+        "name": "Lajes Field",
+        "id": "5aea41b6-974c-4347-aa94-c7f64a8b32f8",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2000
+    },
+    {
+        "name": "戴耶斯空军战略轰炸机基地",
+        "id": "520cc1c031b48264",
+        "type": "空军基地",
+        "type_id": "493776557072978404",
+        "max_runway_length": 2000
+    },
+    {
+        "name": "拉瓜迪亚机场",
+        "id": "53852c517e9a7db5",
+        "type": "机场",
+        "type_id": "493776555814687204",
+        "max_runway_length": 2700
+    },
+    {
+        "name": "定向台",
+        "id": "b236b031728a9440",
+        "type": "保障区",
+        "type_id": "524274545608103433",
+        "max_runway_length": 2700
+    },
+    {
+        "name": "Francis Gabreski Air National Guard Base",
+        "id": "2de53da0-fc22-440b-a0c2-68dcbfb4fbf8",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2600
+    },
+    {
+        "name": "Elmendorf Air Force Base",
+        "id": "40b3fba6-2abc-49e5-af3a-073c17c783a0",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2300
+    },
+    {
+        "name": "Tyndall Air Force Base",
+        "id": "a15d6187-7d5d-4e17-8de9-617ff4356f10",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2600
+    },
+    {
+        "name": "Norwalk 2",
+        "id": "cafa7433-201d-4f69-8dfd-ba8f338356ee",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2000
+    },
+    {
+        "name": "小型机场",
+        "id": "bd1d2e37d9e7bacf",
+        "type": "机场",
+        "type_id": "493776555814687204",
+        "max_runway_length": 2100
+    },
+    {
+        "name": "小型民用机场",
+        "id": "ffa3f82b575a9903",
+        "type": "机场",
+        "type_id": "493776555814687204",
+        "max_runway_length": 2400
+    },
+    {
+        "name": "群山",
+        "id": "5ac29d82fd4736da",
+        "type": "空军基地",
+        "type_id": "493776557072978404",
+        "max_runway_length": 2500
+    },
+    {
+        "name": "国内机场",
+        "id": "4a1bbba790ef2afd",
+        "type": "机场",
+        "type_id": "493776555814687204",
+        "max_runway_length": 2900
+    },
+    {
+        "name": "Warfield Air National Guard Base",
+        "id": "aed0dc04-2a4b-4c4f-9292-232c7a76868e",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2100
+    },
+    {
+        "name": "US Air Force Academy Airfield",
+        "id": "d124b897-e0b9-4690-a00b-b6c858bc86c4",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 3000
+    },
+    {
+        "name": "小金门",
+        "id": "aa5d80f9aa7e1496",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2600
+    },
+    {
+        "name": "花莲机场",
+        "id": "6e1ab719366d0df2",
+        "type": "机场",
+        "type_id": "493776555814687204",
+        "max_runway_length": 2800
+    },
+    {
+        "name": "滑行道",
+        "id": "dd769c4bf96f6a9c",
+        "type": "滑行道",
+        "type_id": "524274541153752585",
+        "max_runway_length": 2300
+    },
+    {
+        "name": "Andrews Air Force Base",
+        "id": "6148737a-fd6f-408f-8f23-badeac941ac0",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2500
+    },
+    {
+        "name": "空军基地",
+        "id": "9b46ba0a4dd799ac",
+        "type": "空军基地",
+        "type_id": "493776557072978404",
+        "max_runway_length": 2200
+    },
+    {
+        "name": "通辽机场",
+        "id": "47b6667b0af78e1b",
+        "type": "机场",
+        "type_id": "493776555814687204",
+        "max_runway_length": 2100
+    },
+    {
+        "name": "Hill Air Force Base",
+        "id": "7d78bce3-ea43-4cfb-a776-aa650209acd9",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2300
+    },
+    {
+        "name": "Hulman Field",
+        "id": "d72a998f-df30-4c2c-9621-4bd1010d8e68",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2300
+    },
+    {
+        "name": "栋社机场",
+        "id": "5f8ed59f3be9624a",
+        "type": "机场",
+        "type_id": "493776555814687204",
+        "max_runway_length": 2400
+    },
+    {
+        "name": "Dobbins Air Reserve Base",
+        "id": "383624f1-7c57-447d-b551-c83693595ad8",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2000
+    },
+    {
+        "name": "Rome Research Laboratory",
+        "id": "6c53de04-82ae-4b6a-b0d5-279827b116c9",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2200
+    },
+    {
+        "name": "海军大村机场",
+        "id": "9ee2f58dc630e82b",
+        "type": "机场",
+        "type_id": "493776555814687204",
+        "max_runway_length": 2000
+    },
+    {
+        "name": "Arnold Air Force Base",
+        "id": "244a22a7-d838-485d-b67b-5d5f5d07d9ea",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2400
+    },
+    {
+        "name": "Seymour Johnson Air Force Base",
+        "id": "2e333ea1-920c-4219-9950-bbdc7fa65ce1",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2600
+    },
+    {
+        "name": "Bangor Air National Guard Base",
+        "id": "4b32ccb3-a682-45d5-9ef7-39bcc4f8e1de",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2700
+    },
+    {
+        "name": "Aviano Air Base",
+        "id": "5c8ad7bd-8e23-472e-bbe8-4bab531f2a92",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2500
+    },
+    {
+        "name": "Wright-Patterson Air Force Base",
+        "id": "be73df72-efa8-4c51-9f39-d734b8d87cfc",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2900
+    },
+    {
+        "name": "Fresno Air National Guard Base",
+        "id": "e4cba5d5-0e30-4930-a228-987f7f80ec00",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2400
+    },
+    {
+        "name": "Selfridge Air National Guard Base",
+        "id": "fa5417f5-719d-4f7c-b3a0-c7f1441e3895",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2800
+    },
+    {
+        "name": "松山机场",
+        "id": "a7e8f8bb28ee9533",
+        "type": "军民合用机场",
+        "type_id": "524274533755000329",
+        "max_runway_length": 2300
+    },
+    {
+        "name": "福冈机场",
+        "id": "21cec7786b4afeff",
+        "type": "机场",
+        "type_id": "493776555814687204",
+        "max_runway_length": 2800
+    },
+    {
+        "name": "澳门国际机场",
+        "id": "be4c1a1855af07e8",
+        "type": "机场",
+        "type_id": "493776555814687204",
+        "max_runway_length": 2800
+    },
+    {
+        "name": "RAF Menwith Hill",
+        "id": "20f64b7a-1b5d-41e1-a346-8228edef8c5f",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 3000
+    },
+    {
+        "name": "Randolph Air Force Base",
+        "id": "a9d9b521-bca5-42b2-8db3-6dfe9b1a34dd",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2100
+    },
+    {
+        "name": "花莲空军基地",
+        "id": "705d3e392b7da9fe",
+        "type": "空军基地",
+        "type_id": "493776557072978404",
+        "max_runway_length": 2600
+    },
+    {
+        "name": "林德堡国际机场",
+        "id": "e1967e4a1a273b73",
+        "type": "机场",
+        "type_id": "493776555814687204",
+        "max_runway_length": 2800
+    },
+    {
+        "name": "Otis Air National Guard Base",
+        "id": "50c4f409-4c4e-4a1c-b973-fda61564dc5c",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2000
+    },
+    {
+        "name": "Standiford Field",
+        "id": "ca1ebefb-db86-4d96-a157-06c06f939dd0",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 3000
+    },
+    {
+        "name": "Verona Defense Fuel Support Point",
+        "id": "e489c238-8a07-45a4-9616-93e4da92ca85",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2300
+    },
+    {
+        "name": "Ramstein Air Base",
+        "id": "e511efe2-c033-4d74-9578-abd649b83c4d",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2700
+    },
+    {
+        "name": "Goldwater Air National Guard Base",
+        "id": "a89a22ba-0163-4ef2-a9ae-1a90cdd366c1",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2500
+    },
+    {
+        "name": "Des Moines Air National Guard Base",
+        "id": "aafb2313-4395-4259-8626-f85c58bc3b73",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2600
+    },
+    {
+        "name": "Big Mountain Radio Relay Site",
+        "id": "b3f02d00-ccc9-4a63-82db-9a2cc7379172",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2000
+    },
+    {
+        "name": "山海关机场",
+        "id": "2a2e829a568d9fa7",
+        "type": "机场",
+        "type_id": "493776555814687204",
+        "max_runway_length": 2200
+    },
+    {
+        "name": "旧跑道",
+        "id": "1a44796097126450",
+        "type": "跑道",
+        "type_id": "524274537051723273",
+        "max_runway_length": 2100
+    },
+    {
+        "name": "Air National Guard Station Dothan Regional Airport",
+        "id": "0def2fe1-d27a-429b-ab3f-90c76fa4a848",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2800
+    },
+    {
+        "name": "Soto Cano Air Base",
+        "id": "c7092920-f54c-437f-88d5-c8b38adca3ad",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2400
+    },
+    {
+        "name": "彰化高速公路机场",
+        "id": "49629e33f55d409f",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2000
+    },
+    {
+        "name": "群山空军基地",
+        "id": "a94caebce0e6ec0a",
+        "type": "空军基地",
+        "type_id": "493776557072978404",
+        "max_runway_length": 2200
+    },
+    {
+        "name": "成田机场",
+        "id": "ae2565c78f0d3593",
+        "type": "机场",
+        "type_id": "493776555814687204",
+        "max_runway_length": 2900
+    },
+    {
+        "name": "阿拉斯加空军基地",
+        "id": "e5e04614ab8862a0",
+        "type": "空军基地",
+        "type_id": "493776557072978404",
+        "max_runway_length": 2200
+    },
+    {
+        "name": "Maxwell Air Force Base Gunter Annex",
+        "id": "0a3e44c4-0757-4d7c-b6c0-d488355eefb7",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2400
+    },
+    {
+        "name": "Chievres Air Base",
+        "id": "5dd51081-3ce1-47d4-980b-23555922c8bd",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 3000
+    },
+    {
+        "name": "穆迪空军基地",
+        "id": "8a06f76f-42bb-4566-93ea-1d26439c3ac5",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2700
+    },
+    {
+        "name": "National Geospatial-Intelligence Agency Arnold Facility",
+        "id": "adc14370-707f-44c4-bcd0-17885c07f60a",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2400
+    },
+    {
+        "name": "小松空军基地",
+        "id": "fa003ea9f9205c12",
+        "type": "空军基地",
+        "type_id": "493776557072978404",
+        "max_runway_length": 2700
+    },
+    {
+        "name": "Air Force Plant 4",
+        "id": "60b20dd9-8bc2-4e71-aacc-009f8448e6d6",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 3000
+    },
+    {
+        "name": "Sioux City Air National Guard Base",
+        "id": "8632599b-9d0a-4392-9030-212a7ad258e2",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 3000
+    },
+    {
+        "name": "March Air Reserve Base",
+        "id": "92fa8c96-e287-4453-a90e-725308ce7054",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2000
+    },
+    {
+        "name": "Isa",
+        "id": "9fe3a470-a5c7-4596-b27a-c1b287a87879",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2100
+    },
+    {
+        "name": "清泉岗空军基地",
+        "id": "5ca1bc08-c06d-4247-8c13-d6f8d70898a1",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2400
+    },
+    {
+        "name": "新竹空军基地",
+        "id": "757e02314d0b21e8",
+        "type": "空军基地",
+        "type_id": "493776557072978404",
+        "max_runway_length": 2200
+    },
+    {
+        "name": "路桥机场",
+        "id": "dd5f02dcc2c1025d",
+        "type": "机场",
+        "type_id": "493776555814687204",
+        "max_runway_length": 2200
+    },
+    {
+        "name": "珠海机场",
+        "id": "44fae67dee5eac7d",
+        "type": "机场",
+        "type_id": "493776555814687204",
+        "max_runway_length": 2700
+    },
+    {
+        "name": "巴尔的摩国际机场",
+        "id": "b8330ae210c61464",
+        "type": "机场",
+        "type_id": "493776555814687204",
+        "max_runway_length": 2900
+    },
+    {
+        "name": "Capital Airport Air National Guard Station",
+        "id": "c28cd74f-d8a9-48c3-a127-7ff0f9b99e1a",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2100
+    },
+    {
+        "name": "Shaw Air Force Base",
+        "id": "f5e6a456-1fcd-4454-a51e-b64318c524b5",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2500
+    },
+    {
+        "name": "台湾地下空军基地",
+        "id": "ca70aae715a1eb24",
+        "type": "空军基地",
+        "type_id": "493776557072978404",
+        "max_runway_length": 2900
+    },
+    {
+        "name": "那霸",
+        "id": "252ee558ad4a4c4d",
+        "type": "空军基地",
+        "type_id": "493776557072978404",
+        "max_runway_length": 2700
+    },
+    {
+        "name": "圣克鲁斯国际机场",
+        "id": "5144fd46eb0010bc",
+        "type": "机场",
+        "type_id": "493776555814687204",
+        "max_runway_length": 2200
+    },
+    {
+        "name": "南跑道",
+        "id": "4421d4f39f530b42",
+        "type": "跑道",
+        "type_id": "524274537051723273",
+        "max_runway_length": 2200
+    },
+    {
+        "name": "General Mitchell Air National Guard Base",
+        "id": "28f45427-4fda-41bd-b654-8a4b4b57634d",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2000
+    },
+    {
+        "name": "Point Arena Air Force Station",
+        "id": "82cf3f2a-e3fb-47d1-9149-aa716d4b4c8b",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2700
+    },
+    {
+        "name": "Spangdahlem Air Base",
+        "id": "987c6f30-0671-43a1-afc8-34e9aaddd773",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 3000
+    },
+    {
+        "name": "台南空军基地",
+        "id": "f17128596e14b1cf",
+        "type": "空军基地",
+        "type_id": "493776557072978404",
+        "max_runway_length": 2500
+    },
+    {
+        "name": "Luke Air Force Base",
+        "id": "e51bca11-4ba1-4a94-b5b2-98ed0f8cd265",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2700
+    },
+    {
+        "name": "Minot Air Force Base",
+        "id": "188f5553-d6b3-4947-920f-dca395b51ceb",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2900
+    },
+    {
+        "name": "Kunsan Air Base",
+        "id": "969f4271-ba81-4d4b-abeb-697ba650c162",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2600
+    },
+    {
+        "name": "普陀山机场",
+        "id": "00e4d5db838dd132",
+        "type": "机场",
+        "type_id": "493776555814687204",
+        "max_runway_length": 2900
+    },
+    {
+        "name": "赤鱲角国际机场",
+        "id": "d71fd5692a773856",
+        "type": "机场",
+        "type_id": "493776555814687204",
+        "max_runway_length": 3000
+    },
+    {
+        "name": "RAF Molesworth",
+        "id": "5b14bae2-1dc6-446a-a6d9-a789fe492920",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2400
+    },
+    {
+        "name": "Seguin Auxiliary Field",
+        "id": "84415146-91e8-43b3-b40a-8b1728ce2f87",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2300
+    },
+    {
+        "name": "Haarp Research Station",
+        "id": "ced36751-5a78-4f77-ba5e-868401914bb6",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2700
+    },
+    {
+        "name": "普天间空军基地",
+        "id": "40a6da61be63e431",
+        "type": "空军基地",
+        "type_id": "493776557072978404",
+        "max_runway_length": 2900
+    },
+    {
+        "name": "顺安空军基地",
+        "id": "4610bc665d51912c",
+        "type": "空军基地",
+        "type_id": "493776557072978404",
+        "max_runway_length": 2300
+    },
+    {
+        "name": "广州白云国际机场",
+        "id": "51b6cdd9f25ce06b",
+        "type": "机场",
+        "type_id": "493776555814687204",
+        "max_runway_length": 2800
+    },
+    {
+        "name": "羽田机场",
+        "id": "6296cea10c02baeb",
+        "type": "机场",
+        "type_id": "493776555814687204",
+        "max_runway_length": 2900
+    },
+    {
+        "name": "萧山国际机场",
+        "id": "6e8ff60c47699a6e",
+        "type": "民用机场",
+        "type_id": "524274540935648777",
+        "max_runway_length": 2900
+    },
+    {
+        "name": "民航机场",
+        "id": "c9c596fa45ad4a6a",
+        "type": "民用机场",
+        "type_id": "524274540935648777",
+        "max_runway_length": 2000
+    },
+    {
+        "name": "Little Rock Air Force Base",
+        "id": "da2afce4-ff30-496e-b146-c06a6a6147d4",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2800
+    },
+    {
+        "name": "Brooks Air Force Base",
+        "id": "eedc9cb4-0469-45f0-85bd-a76735b952b5",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 3000
+    },
+    {
+        "name": "甘托克机场",
+        "id": "5644311389a6c704",
+        "type": "机场",
+        "type_id": "493776555814687204",
+        "max_runway_length": 2500
+    },
+    {
+        "name": "混凝土跑道",
+        "id": "513e8383e9c0f3fd",
+        "type": "跑道",
+        "type_id": "524274537051723273",
+        "max_runway_length": 2800
+    },
+    {
+        "name": "谢米亚空军基地",
+        "id": "b1f8903f9a98b1cd",
+        "type": "空军基地",
+        "type_id": "493776557072978404",
+        "max_runway_length": 2000
+    },
+    {
+        "name": "萨甫达章机场",
+        "id": "0d6d1830dfb3a8da",
+        "type": "机场",
+        "type_id": "493776555814687204",
+        "max_runway_length": 2000
+    },
+    {
+        "name": "Campion Air Force Station",
+        "id": "abfe80ea-4068-41ff-9880-b3c8554c8736",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2900
+    },
+    {
+        "name": "Newington Defense Fuel Support Point",
+        "id": "f35e442e-0244-4983-a4f3-056bfd37459a",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2600
+    },
+    {
+        "name": "屏东(北) 空军基地",
+        "id": "64aa67f07727c7b8",
+        "type": "空军基地",
+        "type_id": "493776557072978404",
+        "max_runway_length": 2000
+    },
+    {
+        "name": "Keesler Air Force Base",
+        "id": "83bf720d-7235-49c7-8ed9-89a101d42b80",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2600
+    },
+    {
+        "name": "Pittsburgh Air Reserve Station",
+        "id": "ba5a8c1c-7ea9-4921-abda-4ddecc22223e",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2800
+    },
+    {
+        "name": "Ebbing Air National Guard Base",
+        "id": "d36355ba-51f4-413e-937e-6b888f7cadc9",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2600
+    },
+    {
+        "name": "Lincoln Air National Guard Base",
+        "id": "f4b2d1a7-4b61-45c5-a273-b7439a7ace8e",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2500
+    },
+    {
+        "name": "大邱空军基地",
+        "id": "cbcc75541b4a1a2f",
+        "type": "空军基地",
+        "type_id": "493776557072978404",
+        "max_runway_length": 2100
+    },
+    {
+        "name": "嘉手纳空军基地",
+        "id": "c6e9a0d5c7f1416e",
+        "type": "空军基地",
+        "type_id": "493776557072978404",
+        "max_runway_length": 2300
+    },
+    {
+        "name": "台湾地区交通部门“民航局”望安航空站",
+        "id": "edf5aca413af5efc",
+        "type": "民用机场",
+        "type_id": "524274540935648777",
+        "max_runway_length": 2300
+    },
+    {
+        "name": "Laughlin Air Force Base",
+        "id": "da46aff0-2f2d-4198-874a-9d0147880562",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2500
+    },
+    {
+        "name": "松山空军基地",
+        "id": "ef28b1d1d4e7e283",
+        "type": "空军基地",
+        "type_id": "493776557072978404",
+        "max_runway_length": 2200
+    },
+    {
+        "name": "佳山空军基地",
+        "id": "d18fdf752e8666bb",
+        "type": "空军基地",
+        "type_id": "493776557072978404",
+        "max_runway_length": 2100
+    },
+    {
+        "name": "直升机停机位",
+        "id": "3941d4d24a659739",
+        "type": "独立直升机起降场",
+        "type_id": "524274541229250057",
+        "max_runway_length": 2800
+    },
+    {
+        "name": "马公空军基地",
+        "id": "f8ee299e426d0d34",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2800
+    },
+    {
+        "name": "达姆达姆国际机场",
+        "id": "f5464345b2609ec8",
+        "type": "机场",
+        "type_id": "493776555814687204",
+        "max_runway_length": 2800
+    },
+    {
+        "name": "Chena River Research Site",
+        "id": "83383182-6182-4ecd-9f77-cf62248e957c",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2000
+    },
+    {
+        "name": "Roland R. Wright Air National Guard Base",
+        "id": "b3e7f010-a808-4704-84bc-b87a099a0ba7",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2300
+    },
+    {
+        "name": "大型国内机场",
+        "id": "a27e5aac6985bdf9",
+        "type": "机场",
+        "type_id": "493776555814687204",
+        "max_runway_length": 2400
+    },
+    {
+        "name": "Jackson Air National Guard Base",
+        "id": "3ea9c8d3-16f5-42a4-9bba-86cc038cd719",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2600
+    },
+    {
+        "name": "Isabela Puerto Rico",
+        "id": "8b0baed8-39d3-41ab-a25b-2de140059864",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2000
+    },
+    {
+        "name": "Montgomery Air National Guard Station",
+        "id": "ad5b7ffe-c2b5-43f0-bfdd-03574fa3e830",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2700
+    },
+    {
+        "name": "猪母水机场",
+        "id": "76464644a3ccf9dd",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2700
+    },
+    {
+        "name": "大同机场",
+        "id": "9d0ee229963e1285",
+        "type": "机场",
+        "type_id": "493776555814687204",
+        "max_runway_length": 2200
+    },
+    {
+        "name": "Tinker Support Annex",
+        "id": "d944ed1e-bc55-4fd3-896c-b794b21a2cc4",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2900
+    },
+    {
+        "name": "Grand Forks Air Force Base",
+        "id": "ec5d0f1f-f9c4-46cd-aa47-a391c9653a9f",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2400
+    },
+    {
+        "name": "汕头外砂机场",
+        "id": "51fd865f89d9cc6f",
+        "type": "民用机场",
+        "type_id": "524274540935648777",
+        "max_runway_length": 3000
+    },
+    {
+        "name": "Horsham Air National Guard Station",
+        "id": "22131dee-90c0-44cc-8aea-d2561746a981",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2500
+    },
+    {
+        "name": "Jacksonville Air National Guard Base",
+        "id": "5cb80dd4-3b1e-42e6-a71d-cbc330272c99",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2700
+    },
+    {
+        "name": "函馆机场",
+        "id": "d3cec7f228ec291b",
+        "type": "机场",
+        "type_id": "493776555814687204",
+        "max_runway_length": 2700
+    },
+    {
+        "name": "民航机",
+        "id": "9d3530587cc20274",
+        "type": "民用机场",
+        "type_id": "524274540935648777",
+        "max_runway_length": 2700
+    },
+    {
+        "name": "Tonopah Test Range",
+        "id": "3e76222b-4229-463c-b1da-a01c30e11327",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2100
+    },
+    {
+        "name": "Al Udeid Air Base",
+        "id": "8a5ca5ae-925c-45ab-897b-39d902f92d93",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2700
+    },
+    {
+        "name": "Yeager Air National Guard Base",
+        "id": "a21029b4-887c-4f19-8122-72a1a26b02c5",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2500
+    },
+    {
+        "name": "Homestead Air Reserve Base",
+        "id": "f935c269-b5f0-423f-aa6f-16307275c8ef",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2000
+    },
+    {
+        "name": "马公机场",
+        "id": "aaae2ecd1a5fbb7d",
+        "type": "机场",
+        "type_id": "493776555814687204",
+        "max_runway_length": 2500
+    },
+    {
+        "name": "安德森空军基地",
+        "id": "5f56e02e-126e-4dbd-8a5b-37087d82624f",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2000
+    },
+    {
+        "name": "Quonset Point Air National Guard Station",
+        "id": "7a46d0d7-01eb-4e4f-a252-4186d1946ae8",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2700
+    },
+    {
+        "name": "Cheyenne Air National Guard Base",
+        "id": "7e049183-2ea5-4e6b-b7a2-8ba2884b0609",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2600
+    },
+    {
+        "name": "Incirlik Air Base",
+        "id": "bc501957-a21e-4cf8-b6c6-0abd704c824b",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2500
+    },
+    {
+        "name": "Sumpter Smith Joint National Guard Base",
+        "id": "cde32a12-08e6-4bb4-99fb-1f5fbaafa75f",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2700
+    },
+    {
+        "name": "Nellis Annex",
+        "id": "ce7094ce-2ca8-44c7-a4f0-97fc9a2f84e9",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2000
+    },
+    {
+        "name": "McGuire Air Force Base",
+        "id": "dce2ea41-505b-4e57-b120-5be51eb019b5",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2100
+    },
+    {
+        "name": "McClellan Air Force Base",
+        "id": "eee6dfe6-95bd-418a-8ad2-019860f2c511",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 3000
+    },
+    {
+        "name": "归仁机场",
+        "id": "3026a4df3151fcc1",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2300
+    },
+    {
+        "name": "水湳机场",
+        "id": "f1136c7ca3cc24c4",
+        "type": "军民合用机场",
+        "type_id": "524274533755000329",
+        "max_runway_length": 2900
+    },
+    {
+        "name": "那霸空军基地",
+        "id": "83dbcf93d9a6155f",
+        "type": "空军基地",
+        "type_id": "493776557072978404",
+        "max_runway_length": 2200
+    },
+    {
+        "name": "范登堡(Vandenberg)美国战略空军基地",
+        "id": "79059ba6e3e31565",
+        "type": "空军基地",
+        "type_id": "493776557072978404",
+        "max_runway_length": 3000
+    },
+    {
+        "name": "Charleston Defense Fuel Support Point",
+        "id": "026dfd36-0fa7-46ad-88e0-2e533802a060",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2800
+    },
+    {
+        "name": "Francis E Warren Air Force Base",
+        "id": "99dbd67d-4b74-418d-a8e7-264d6ca019ea",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2900
+    },
+    {
+        "name": "Hanscom Air Force Base",
+        "id": "9f980f1b-ae77-4c1c-8fb5-10b505fc5c27",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2500
+    },
+    {
+        "name": "航站",
+        "id": "f4890173c9887a49",
+        "type": "航站楼",
+        "type_id": "524274540847568393",
+        "max_runway_length": 2900
+    },
+    {
+        "name": "Chabelley Airport",
+        "id": "854427c8-ee4f-48b7-be71-c9dd98b921f6",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2100
+    },
+    {
+        "name": "Westover Air Reserve Base",
+        "id": "cfa6cc4c-f487-42c4-8d93-eb81b3e6e63a",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2500
+    },
+    {
+        "name": "台中(清泉岗)空军基地",
+        "id": "d264db6b3c80cf27",
+        "type": "空军基地",
+        "type_id": "493776557072978404",
+        "max_runway_length": 3000
+    },
+    {
+        "name": "艾尔森空军基地",
+        "id": "5aa2a6933e51f8b0",
+        "type": "空军基地",
+        "type_id": "493776557072978404",
+        "max_runway_length": 2300
+    },
+    {
+        "name": "肯尼迪机场",
+        "id": "3913f8dacf56559c",
+        "type": "机场",
+        "type_id": "493776555814687204",
+        "max_runway_length": 2800
+    },
+    {
+        "name": "White Bluff",
+        "id": "13bbee88-46b4-4054-81e9-46a386373133",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 3000
+    },
+    {
+        "name": "Tinker Air Force Base",
+        "id": "71688323-fad8-40c9-a96b-2e22efa44798",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2800
+    },
+    {
+        "name": "主跑道",
+        "id": "fbd591e977af04b3",
+        "type": "跑道",
+        "type_id": "524274537051723273",
+        "max_runway_length": 2800
+    },
+    {
+        "name": "台湾民航部门七美航空站",
+        "id": "4223e638c51f7c1d",
+        "type": "民用机场",
+        "type_id": "524274540935648777",
+        "max_runway_length": 2800
+    },
+    {
+        "name": "东沙岛机场",
+        "id": "4d4a5a89ab22cd81",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2000
+    },
+    {
+        "name": "Tulsa Air National Guard Base",
+        "id": "7f33979c-1a4f-4df4-8fb9-36dac614b209",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2300
+    },
+    {
+        "name": "Moron de la Frontera",
+        "id": "b1ed2aa6-3d22-4826-92aa-670dcda906dd",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2800
+    },
+    {
+        "name": "屏东空军基地",
+        "id": "7af25a81-db9a-4235-9d67-2b8e646c0888",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2900
+    },
+    {
+        "name": "洛杉矶国际机场",
+        "id": "4c27cff8d634a091",
+        "type": "机场",
+        "type_id": "493776555814687204",
+        "max_runway_length": 2000
+    },
+    {
+        "name": "Bullen Point Short Range Radar Site",
+        "id": "2f58fb5b-13a6-4a15-b1a1-eb39eb3b458d",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2900
+    },
+    {
+        "name": "Great Falls Air National Guard Base",
+        "id": "4cce6401-bdc7-4f22-adc4-73254cf4fc70",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2400
+    },
+    {
+        "name": "民用和军用机场",
+        "id": "406b58002e93b7b1",
+        "type": "机场",
+        "type_id": "493776555814687204",
+        "max_runway_length": 2400
+    },
+    {
+        "name": "Osan Air Base",
+        "id": "37ad87f9-9ffe-44df-afc3-221d9abe6c40",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2000
+    },
+    {
+        "name": "Reno Air National Guard Base",
+        "id": "f0af201b-5093-4a72-bd8b-39bd572731cd",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2300
+    },
+    {
+        "name": "罗纳德·里根国家机场",
+        "id": "9b028481ed264f1f",
+        "type": "机场",
+        "type_id": "493776555814687204",
+        "max_runway_length": 2700
+    },
+    {
+        "name": "Stratton Air National Guard Base",
+        "id": "0487872b-a345-4e0e-9c1a-b38e42827dc9",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2800
+    },
+    {
+        "name": "巴勒姆",
+        "id": "c7976a4b038c7fec",
+        "type": "空军基地",
+        "type_id": "493776557072978404",
+        "max_runway_length": 2800
+    },
+    {
+        "name": "Whiteman Air Force Base",
+        "id": "01ad5e79-819b-4361-95c2-c2f0f60c239c",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2400
+    },
+    {
+        "name": "釜山国际机场",
+        "id": "efd61faeb234953e",
+        "type": "军民合用机场",
+        "type_id": "524274533755000329",
+        "max_runway_length": 2600
+    },
+    {
+        "name": "横田",
+        "id": "7852c28c44e6aa3b",
+        "type": "空军基地",
+        "type_id": "493776557072978404",
+        "max_runway_length": 2800
+    },
+    {
+        "name": "直升飞机场",
+        "id": "5452251058dd9347",
+        "type": "机场",
+        "type_id": "493776555814687204",
+        "max_runway_length": 2200
+    },
+    {
+        "name": "Mountain Home Air Force Base",
+        "id": "3e7a782b-6f08-42f9-a589-434fd5a463e5",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2800
+    },
+    {
+        "name": "Berry Field",
+        "id": "9194fa01-5a2a-4ca7-a14e-a9de04b56f1c",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2300
+    },
+    {
+        "name": "Boise Air Terminal",
+        "id": "d2c97291-7f81-4309-8044-c9f28eff606a",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2900
+    },
+    {
+        "name": "关岛安德森空军基地",
+        "id": "d68fe5d8-b52b-46c4-83ea-bac5cf32c911",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2800
+    },
+    {
+        "name": "Atlantic City Air National Guard Base",
+        "id": "f1fd67cf-a60c-4493-8b9e-3054e5317bff",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2600
+    },
+    {
+        "name": "龙潭机场",
+        "id": "16d9be0789b0e794",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2900
+    },
+    {
+        "name": "滨松空军基地",
+        "id": "bab4953f9be54d7b",
+        "type": "空军基地",
+        "type_id": "493776557072978404",
+        "max_runway_length": 3000
+    },
+    {
+        "name": "台中机场",
+        "id": "24571331c61a5076",
+        "type": "机场",
+        "type_id": "493776555814687204",
+        "max_runway_length": 2100
+    },
+    {
+        "name": "Shepherd Field Air National Guard Base",
+        "id": "3fbe32a3-1ad4-4690-bc11-d618ca791bc9",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2500
+    },
+    {
+        "name": "武夷山机场",
+        "id": "48f66175c7ef6b58",
+        "type": "机场",
+        "type_id": "493776555814687204",
+        "max_runway_length": 2600
+    },
+    {
+        "name": "Fargo Air National Guard Base",
+        "id": "84c481a9-0be2-422f-9bbf-6f175d046004",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2800
+    },
+    {
+        "name": "Offutt Air Force Base",
+        "id": "b738c4f5-30ef-421e-8754-33f0726dd215",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2900
+    },
+    {
+        "name": "Beale Air Force Base",
+        "id": "c9246329-5859-43c6-aa6f-b42372a4fc0e",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2300
+    },
+    {
+        "name": "横田空军基地",
+        "id": "ebf3f00337befed8",
+        "type": "空军基地",
+        "type_id": "493776557072978404",
+        "max_runway_length": 2800
+    },
+    {
+        "name": "机场",
+        "id": "9a5abacb1d438ec6",
+        "type": "机场",
+        "type_id": "493776555814687204",
+        "max_runway_length": 2700
+    },
+    {
+        "name": "杜勒斯国际机场",
+        "id": "df5d82bbd372caa3",
+        "type": "机场",
+        "type_id": "493776555814687204",
+        "max_runway_length": 2300
+    },
+    {
+        "name": "Muniz Air National Guard Base",
+        "id": "9571b635-08c3-41a9-afca-fce2c194f04a",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2200
+    },
+    {
+        "name": "Dyess Air Force Base",
+        "id": "cf959f98-9da4-4409-86b8-307a391a7cf3",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2800
+    },
+    {
+        "name": "飞机洞库",
+        "id": "096eaa18e5b0bedb",
+        "type": "地下洞库",
+        "type_id": "524274547449402889",
+        "max_runway_length": 2000
+    },
+    {
+        "name": "Robins Air Force Base",
+        "id": "08ac6d02-41a7-43cb-a99a-45184f64eb23",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 3000
+    },
+    {
+        "name": "Dover Air Force Base",
+        "id": "27303355-3b04-4d00-a687-2af6e55415bf",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2100
+    },
+    {
+        "name": "巴勒姆国际机场",
+        "id": "03e67624e2adac00",
+        "type": "机场",
+        "type_id": "493776555814687204",
+        "max_runway_length": 3000
+    },
+    {
+        "name": "Fort Fisher Recreation Site",
+        "id": "888cb054-eec4-46a0-a3cf-20e138f1f93d",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2600
+    },
+    {
+        "name": "Vance Air Force Base",
+        "id": "f645fee8-2cf6-40ee-87a8-cc3eeeba42d2",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2400
+    },
+    {
+        "name": "长乐国际机场",
+        "id": "5ced6796a02850f3",
+        "type": "机场",
+        "type_id": "493776555814687204",
+        "max_runway_length": 2000
+    },
+    {
+        "name": "港澳码头直升机场",
+        "id": "10e9ddc4f2f587ae",
+        "type": "独立直升机起降场",
+        "type_id": "524274541229250057",
+        "max_runway_length": 2200
+    },
+    {
+        "name": "Air National Guard Cantonement Area Mansfield Lahm Regional Airport",
+        "id": "212883eb-c413-4cd8-8d08-d17b620a6e2b",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 3000
+    },
+    {
+        "name": "George Air Force Base",
+        "id": "63b11a7d-8f8c-4123-9a16-83109b18bd20",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2400
+    },
+    {
+        "name": "Air Force Plant 42",
+        "id": "89d0d7ab-fcb6-415c-9c17-7703686025d6",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2600
+    },
+    {
+        "name": "Joe Foss Field",
+        "id": "d63c2c49-e3f1-4117-9537-330c70b337b8",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2000
+    },
+    {
+        "name": "Nellis Air Force Base",
+        "id": "ef2f6a0c-2941-4eb3-9df7-639566f30321",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2600
+    },
+    {
+        "name": "台南空军基地",
+        "id": "79d6b78f-aaa5-40aa-a994-67c40d85f9f7",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2300
+    },
+    {
+        "name": "嘉义空军基地",
+        "id": "d96d7566-ab60-437a-b253-291d0f1a4ed3",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2400
+    },
+    {
+        "name": "千岁空军基地",
+        "id": "65c1865500eeae2c",
+        "type": "空军基地",
+        "type_id": "493776557072978404",
+        "max_runway_length": 2600
+    },
+    {
+        "name": "歧阜空军基地",
+        "id": "a20c7bb08db95a40",
+        "type": "空军基地",
+        "type_id": "493776557072978404",
+        "max_runway_length": 2100
+    },
+    {
+        "name": "新田原空军基地",
+        "id": "ba15ca809ccb5e87",
+        "type": "空军基地",
+        "type_id": "493776557072978404",
+        "max_runway_length": 2000
+    },
+    {
+        "name": "Travis Annex 2",
+        "id": "2eda322f-4036-455c-b516-b1ec45319152",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2600
+    },
+    {
+        "name": "Forbes Field",
+        "id": "86c6c1ad-624f-49be-a66a-69505c575ba6",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2300
+    },
+    {
+        "name": "埃尔门多夫空军基地",
+        "id": "0ff3e12e79830a43",
+        "type": "空军基地",
+        "type_id": "493776557072978404",
+        "max_runway_length": 2100
+    },
+    {
+        "name": "滨海机场",
+        "id": "42fb4e97d1a2d12c",
+        "type": "机场",
+        "type_id": "493776555814687204",
+        "max_runway_length": 2500
+    },
+    {
+        "name": "停机坪",
+        "id": "986b9ca992c7e242",
+        "type": "停机坪",
+        "type_id": "524274541006951945",
+        "max_runway_length": 2500
+    },
+    {
+        "name": "Holloman Air Force Base",
+        "id": "4fb8bd7d-39ef-4aad-b845-9c9164c63dba",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2700
+    },
+    {
+        "name": "Pope Field",
+        "id": "e1b90c99-5893-4845-af8c-b12baae114e6",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2200
+    },
+    {
+        "name": "Moody Air Force Base",
+        "id": "a0ea1046-d23f-4fc6-af51-ca46c0d791b5",
+        "type": "军用机场",
+        "type_id": "MilitaryTarget_50104",
+        "max_runway_length": 2300
+    }
+]

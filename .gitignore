@@ -1,1 +1,5 @@
 chatglm2-ggml.bin
+*.tar
+*.zip
+._*
+fake/
