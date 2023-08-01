@@ -3,7 +3,7 @@ import requests
 import random
 import time
 import datetime
-from utils import airplaneTakeoffWithAirportAndWeather
+from utils import airplaneTakeoffWithAirportAndWeather, getMissileEffect
 app = Flask(__name__)
 import logging
 import os
@@ -31,8 +31,10 @@ def chat_reason():
     decision = request.json['decision']
     print(decision)
     entity_info = request.json['entity_info']
-    if '飞机起降' in decision:
+    if '起飞' in decision or '降落' in decision or '起降' in decision:
         return airplaneTakeoffWithAirportAndWeather(entity_info)
+    if '打击' in decision:
+        return getMissileEffect(entity_info)
         
     prompt = ''
     for ent_name,ent_props in entity_info.items():
@@ -68,6 +70,7 @@ def chat_reason():
     steps = extract_steps(format_rationale)
     if len(steps) <= 2:
         steps = format_rationale.split('\n')
+        steps = [step.strip() for step in steps if len(step.strip())>0]
         steps = [tag+': '+step.strip() for tag, step in zip(chinese_step_tags,steps)]
     
     
